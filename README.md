@@ -3,3 +3,6 @@ git clone: brings the git repo from <UR:>
 git status: tells us what we need to know about our repository
 git add filename adds the file to staging area
 git commit command asks to write message about commit
+git commit -m message: without a text editor we can write message
+git log shows history of commits
+git log --onelin: shows the shorter online commit
