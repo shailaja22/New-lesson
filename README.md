@@ -11,3 +11,4 @@ git diff --staged: to check diff between current and previous one
 git diff HEAD~1---shows first commit 
 instead of 1 can also give hash number
 this is example for pull request.
+Some changes are done in remote repository
