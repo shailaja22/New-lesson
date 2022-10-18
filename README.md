@@ -1,4 +1,4 @@
-git init : To initialize current folder as git repository
+#Adding Headergit init : To initialize current folder as git repository
 git clone: brings the git repo from <UR:>
 git status: tells us what we need to know about our repository
 git add filename adds the file to staging area
@@ -11,3 +11,4 @@ git diff --staged: to check diff between current and previous one
 git diff HEAD~1---shows first commit 
 instead of 1 can also give hash number
 this is example for pull request.
+#This is end of line
